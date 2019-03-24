@@ -5,5 +5,5 @@ end
 
 display_rainbow()
 
-display_rainbow(["blue"])
+display_rainbow(["blue", "purple", "green", "orange", fuschia"])
 
